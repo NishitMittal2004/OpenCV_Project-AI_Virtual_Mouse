@@ -1,1 +1,1 @@
-# OpenCV_Project-AI_Virtual_Mouse
+# OpenCV Project - AI Virtual Mouse
